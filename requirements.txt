@@ -1,0 +1,6 @@
+aiohttp==3.10.8
+async-tkinter-loop==0.9.3
+python-dotenv==1.0.1
+sounddevice==0.5.0
+SpeechRecognition==3.10.4
+wavio==0.0.9
